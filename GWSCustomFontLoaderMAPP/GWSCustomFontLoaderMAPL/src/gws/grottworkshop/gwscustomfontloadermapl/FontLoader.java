@@ -67,7 +67,7 @@ import java.util.Map;
  *FontLoader.setDefaultFont(FontLoader.ROBOTO);
  *</code>
  *
- *You still can vary it beyond themes by using the apply mehtods to individualize font
+ *You still can vary it beyond themes by using the apply methods to individualize font
  *choice per view.
  *
  */
